@@ -1,0 +1,15 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Folder Include="ParameterConverters\" />
+    <Folder Include="ResponseConverters\" />
+    <Folder Include="Models\" />
+    <Folder Include="SearchParameters\" />
+    <Folder Include="Models\Image\" />
+    <Folder Include="Models\Video\" />
+  </ItemGroup>
+</Project>

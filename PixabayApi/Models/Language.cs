@@ -1,0 +1,32 @@
+﻿namespace PixabayApi.Models
+{
+    public enum Language
+    {
+        Cs,
+        Da,
+        De,
+        En,
+        Es,
+        Fr,
+        Id,
+        It,
+        Hu,
+        Nl,
+        No,
+        Pl,
+        Pt,
+        Ro,
+        Sk,
+        Fi,
+        Sv,
+        Tr,
+        Vi,
+        Th,
+        Bg,
+        Ru,
+        El,
+        Ja,
+        Ko,
+        Zh
+    }
+}
